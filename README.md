@@ -2,7 +2,7 @@
 
 ## Descripción
 
-![Descripcion]()
+![Descripcion](https://github.com/J-W1C3/Writeups-CERTUNLP/blob/main/Descripcion.png)
 
 ## Funcionamiento
 
